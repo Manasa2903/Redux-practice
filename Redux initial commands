@@ -1,0 +1,11 @@
+1. Create Folder
+2. npm init --yes  // Installs default packages (package.json)
+3 npm install redux // Install redux package
+4. Create a file index.js and Wirte code and in terminal 
+"node index"
+
+5. npm install redux-looger // Install middleware 
+6. npm install axios // for api calls
+7. npm install redux-thunk // Install middleware for asynchronous operations
+
+8. npm install axios redux-thunk // Install multiple packages at same time
